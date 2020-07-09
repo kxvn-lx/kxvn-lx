@@ -1,5 +1,4 @@
-# Kevin Laminto — 
-## iOS Developer, interested in UI/UX design.
+# Kevin Laminto — iOS Developer, interested in UI/UX design.
 
 Hi, I'm Kevin. I love building great products that provides not only value, but aesthetics to the user.
 I'm a huge fans of taking photos and listening to heavy musics and going to gigs!
