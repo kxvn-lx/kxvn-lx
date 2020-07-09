@@ -11,8 +11,8 @@ Currently I am working on an open-sourced app called Kontax Cam. It's an instant
 - Game design and development?!
 
 ## Get in contact
-twitter: https://twitter.com/kevinlx_
+[Twitter](https://www.twitter.com/kevinlx_)
 
-instagram: https://www.instagram.com/kxvn.lx
+[Instagram](https://www.instagram.com/kxvn.lx)
 
-personal site: https://www.kevinweb.tech
+[Personal site](https://www.kevinweb.tech)
