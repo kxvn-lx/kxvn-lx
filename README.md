@@ -1,16 +1,17 @@
-# Kevin Laminto
+## Hi there 👋
 
-Hi, I'm Kevin. I love building great products that provides not only value, but aesthetics to the user.
-I'm a huge fans of taking photos and listening to heavy musics and going to gigs!
+I'm Kevin, i'm an iOS and web developer that loves building valuable and aesthetically pleasing products!
 
-## What I've been working on
-Currently I am working on an open-sourced app called Kontax Cam. It's an instant camera app for photographers with support of multiple custom effects and filters that you can mix-and-match.
+I am currently doing open-source project here and there, and doing a casual [startup](https://espersatellites.co) work as their front-end engineer.
 
-## What i wanted to learn this year
-- Blender (3D Graphics)
-- Game design and development?!
+My areas of interest are (but not limited to):
+- iOS Development
+- Front-end Development
+- UI/UX Design
 
-## Get in contact
+You can sponsor me via [buy me a coffee](https://www.buymeacoffee.com/kevinlaminto)
+
+### Get in contact
 [Twitter](https://www.twitter.com/kevinlx_)
 
 [Instagram](https://www.instagram.com/kxvn.lx)
