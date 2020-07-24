@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-I'm Kevin, i'm an iOS and web developer that loves building valuable and aesthetically pleasing products!
+I'm Kevin, i'm a software developer that loves building valuable and aesthetically pleasing products!
 
-I am currently working on [Kontax Cam](https://github.com/kxvn-lx/Kontax-Cam), and doing a casual [startup](https://espersatellites.co) work as their front-end engineer.
+I'm currently a part-time [startup](https://espersatellites.co) work as their front-end engineer.
 
 My areas of interest are (but not limited to):
 - iOS Development
