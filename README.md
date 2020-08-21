@@ -2,8 +2,7 @@
 
 I'm Kevin, i love taking photos and building apps in my free time.
 
-I'm currently a part-time [startup](https://espersatellites.co) work as their front-end engineer.
-I also have an app store [app](https://apps.apple.com/au/app/nooknook-companion-for-acnh/id1510282831) out!
+Currently building [Kontax Cam](https://kontaxcam.netlify.app) in my free time and a part time front-end engineer at [Esper Satellites Imagery](https://espersatellites.co)
 
 My areas of interest are (but not limited to):
 - iOS Development
