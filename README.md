@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-I'm Kevin, i love taking photos and building apps in my free time.
+I'm Kevin, i love taking [photos](https://kevinlaminto.com) and building apps in my free time.
 
-Currently building [Kontax Cam](https://kontaxcam.netlify.app) in my free time and a part time front-end engineer at [Esper Satellites Imagery](https://espersatellites.co)
+Currently building [Kontax Cam](https://kontax.cam) in my free time and a part time front-end engineer at [Esper Satellites Imagery](https://espersatellites.co)
 
 My areas of interest are (but not limited to):
 - iOS Development
