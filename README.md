@@ -16,4 +16,4 @@ You can sponsor me via [buy me a coffee](https://www.buymeacoffee.com/kevinlamin
 
 [Instagram](https://www.instagram.com/kxvn.lx)
 
-[Personal site](https://www.kevinweb.tech)
+[Personal site](https://kevinweb.netlify.app/)
